@@ -1,0 +1,39 @@
+body {
+    background: #18bc9c;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #fff;
+}
+
+.decision {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 48;
+    margin: 0 7px;
+}
+
+.quote {
+    text-align: center;
+    font-size: 24;
+    font-weight: 100;
+    margin: 0 7px;
+}
+
+.author {
+    text-align: center;
+    font-size: 24;
+    font-weight: 100;
+    margin: 0 7px;
+}
+
+
+h1
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+
