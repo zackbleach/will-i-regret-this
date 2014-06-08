@@ -24,7 +24,6 @@ def index():
     quote_and_author = get_quote().split(":::")
     quote = quote_and_author[1]
     author = quote_and_author[0]
-    print quote
     return render_template("index.html",
                            decision=decision,
                            author=author,
